@@ -2,7 +2,7 @@
 
 Welcome to the 2017 Summer Undergraduate Research Fellowship (SURF) program at LIGO Lab!
 
-LIGO, short for Laser Interferometer Gravitational-wave Observatory, is a network of two U.S.-based observatories in [Hanford, WA](https://www.ligo.caltech.edu/WA/) and [Livingston, LA.](https://www.ligo.caltech.edu/LA/) These detectors search for gravitational waves emanating from the cosmos, which come from sources such as binary black hole mergers. These are the "brightest" known explosions in the universe -- except for the fact that they don't emit any light!
+LIGO, short for Laser Interferometer Gravitational-wave Observatory, is a network of two U.S.-based observatories in [Hanford, WA](https://www.ligo.caltech.edu/WA/) and [Livingston, LA.](https://www.ligo.caltech.edu/LA/) The LIGO detectors search for gravitational waves emanating from the cosmos between 30 and 2000 Hz, which come from sources such as binary black hole mergers. These are the "brightest" known explosions in the universe -- except for the fact that they don't emit any light!
 
 Three binary black hole merger signals have been observed to date:
 * [GW150914](https://losc.ligo.org/events/GW150914/): Our first detection in September 2015, which caught everyone by surprise
