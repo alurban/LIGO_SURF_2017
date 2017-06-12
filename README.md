@@ -45,6 +45,7 @@ For data science and signal processing:
 
 For LIGO in general:
 * [LIGO Laboratory](http://ligo.caltech.edu)
+* Website for the [SURF program](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/)
 * Online version of my [curriculum vitae](http://alurban.github.io/)
 
 Pro tip: if your eyes hurt after staring at a computer screen all day, consider using software that adjusts your monitor's color filter to reflect indoor vs. outdoor lighting conditions, such as [f.lux](https://justgetflux.com).
