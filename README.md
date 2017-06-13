@@ -6,7 +6,7 @@ LIGO, short for Laser Interferometer Gravitational-wave Observatory, is a networ
 
 Three binary black hole merger signals have been observed to date:
 * [GW150914](https://losc.ligo.org/events/GW150914/): Our first detection in September 2015, which caught everyone by surprise
-* [GW151226](https://losc.ligo.org/events/GW151226/): Our second detection, which came on my birthday in 2015!
+* [GW151226](https://losc.ligo.org/events/GW151226/): Our second detection, with smaller component masses
 * [GW170104](https://losc.ligo.org/events/GW170104/): Our most recent detection, from January 2017
 
 This is a repository containing astrophysics and data analysis tutorials for incoming students in the program. Below you will find instructions for access, as well as an outline of the repo's contents. There is also a summary of helpful links provided toward the end.
@@ -46,7 +46,6 @@ For data science and signal processing:
 For LIGO in general:
 * [LIGO Laboratory](http://ligo.caltech.edu)
 * Website for the [SURF program](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/)
-* Online version of my [curriculum vitae](http://alurban.github.io/)
 
 Pro tip: if your eyes hurt after staring at a computer screen all day, consider using software that adjusts your monitor's color filter to reflect indoor vs. outdoor lighting conditions, such as [f.lux](https://justgetflux.com).
 
