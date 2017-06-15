@@ -22,7 +22,7 @@ To clone this repository, open a Terminal window (on Mac or Linux) and do the fo
 git clone https://github.com/alurban/LIGO_SURF_2017.git
 ```
 
-This will create a local copy on whatever computer you're running on. You will be able to retrieve this copy and work from it, but **please not to push changes unless I grant you permissions.** (Please [email me](mailto:aurban@ligo.caltech.edu) if you would like to discuss setting up push privileges.)
+This will create a local copy on whatever computer you're running on. You will be able to retrieve this copy and work from it, but **please do not push changes unless I explicitly grant you permissions.** (Please [email me](mailto:aurban@ligo.caltech.edu) if you would like to discuss setting up push privileges.)
 
 Alternatively, you can open this repository in your desktop or download a ZIP-compressed version using the "clone or download" button at the top of this page. This will work from any system.
 
