@@ -53,4 +53,7 @@ Pro tip: if your eyes hurt after staring at a computer screen all day, consider 
 
 Finally, here's [a video of an adorable sloth](https://youtu.be/DkmrWY5zYbA)!
 
-<img src="https://dcc.ligo.org/public/0000/F0900035/001/F0900035-v1%20%28high%20resolution%29.jpg" alt="LIGO logo" width="300" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="http://wennberg-wiki.caltech.edu/@api/deki/files/67/=Caltech_logo.png" alt="Caltech logo" width="300" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><p style="text-align: center; clear: both;">
+<p align="center">
+	<img src="https://dcc.ligo.org/public/0000/F0900035/001/F0900035-v1%20%28high%20resolution%29.jpg" alt="LIGO logo" width="300" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" />
+	<img src="http://wennberg-wiki.caltech.edu/@api/deki/files/67/=Caltech_logo.png" alt="Caltech logo" width="300" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" />
+</p>
