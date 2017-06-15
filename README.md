@@ -29,7 +29,7 @@ Alternatively, you can open this repository in your desktop or download a ZIP-co
 Contents
 --------
 
-
+* [schedule](https://github.com/alurban/LIGO_SURF_2017/tree/master/schedule) -- A folder containing the LIGO SURF program schedule and a Caltech campus map. The schedule includes orientation, lectures, and project due dates.
 
 Other Resources
 ---------------
@@ -56,4 +56,3 @@ Finally, here's [a video of an adorable sloth](https://youtu.be/DkmrWY5zYbA)!
 <p align="center">
 	<img src="https://dcc.ligo.org/public/0000/F0900035/001/F0900035-v1%20%28high%20resolution%29.jpg" alt="LIGO logo" width="250" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" />
 	<img src="http://wennberg-wiki.caltech.edu/@api/deki/files/67/=Caltech_logo.png" alt="Caltech logo" width="250" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" />
-</p>
